@@ -12,3 +12,6 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+
+## NEED TO KNOW
+Amazon bans when trying to crawl false, thus 1 worker without concurrency is enought not to get banned
